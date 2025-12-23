@@ -98,9 +98,3 @@ http://localhost:3000
 Designed and developed with a focus on joyful UI/UX, smooth interactions, and festive storytelling.
 
 ---
-
-## 📄 License
-
-This project is intended for educational and showcase purposes only.
-
----
