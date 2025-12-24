@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   title: "Celebrations | Explore the Flavours of Happiness",
   description:
     "Discover the magical world of Celebrations chocolates - a festive assortment of iconic flavours bringing joy to every celebration.",
-  generator: "v0.app",
+
   viewport: {
     width: "device-width",
     initialScale: 1,
