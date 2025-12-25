@@ -11,30 +11,6 @@ export const metadata: Metadata = {
   title: "Celebrations | Explore the Flavours of Happiness🎉",
   description:
     "Discover the magical world of Celebrations chocolates - a festive assortment of iconic flavours bringing joy to every celebration.",
-
-  viewport: {
-    width: "device-width",
-    initialScale: 1,
-    maximumScale: 5,
-    userScalable: true,
-  },
-  icons: {
-    icon: [
-      {
-        url: "/icon-light-32x32.png",
-        media: "(prefers-color-scheme: light)",
-      },
-      {
-        url: "/icon-dark-32x32.png",
-        media: "(prefers-color-scheme: dark)",
-      },
-      {
-        url: "/icon.svg",
-        type: "image/svg+xml",
-      },
-    ],
-    apple: "/apple-icon.png",
-  },
 }
 
 export default function RootLayout({
