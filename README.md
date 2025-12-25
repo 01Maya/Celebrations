@@ -1,7 +1,7 @@
 
 # 🎉 Celebrations – Explore the Flavours of Happiness 🍫
 
-## Overview
+## 🎉 Overview
 
 Celebrations is a joyful, interactive landing page that showcases iconic chocolates in a festive and immersive experience.
 It blends smooth animations, playful interactions, and a clean premium UI.
