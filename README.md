@@ -101,3 +101,5 @@ http://localhost:3000
 Designed and developed with a focus on joyful UI/UX, smooth interactions, and festive storytelling.
 
 ---
+
+Celebrate with flavour of Love ♥️🎉
