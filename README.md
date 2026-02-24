@@ -52,7 +52,7 @@ The experience focuses on joyful typography, smooth motion, and strong UI/UX pri
 The preview includes animated sections, smooth navigation, interactive chocolates, festive surprise cards, and an elegant footer layout.
 
 
-https://celebrations-box.vercel.app/
+✨ https://celebrations-box.vercel.app/
 
 ---
 
