@@ -5,7 +5,7 @@
 
 Celebrations is a joyful, interactive landing page that showcases iconic chocolates in a festive and immersive experience.
 It blends smooth animations, playful interactions, and a clean premium UI.
-
+---
 ## 🍫 Description
 
 This project is a modern, responsive website designed to bring the Celebrations chocolate assortment to life.
