@@ -1,5 +1,5 @@
 
-# 🎉 Celebrations – Explore the Flavours of Happiness 🍫
+# Celebrations – Explore the Flavours of Happiness 🍫
 
 ## 🎉 Overview
 
